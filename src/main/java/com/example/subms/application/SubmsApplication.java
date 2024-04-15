@@ -1,4 +1,4 @@
-package com.example.subms;
+package com.example.subms.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
