@@ -1,14 +1,12 @@
 package com.example.subms.infrastructure.config;
-
-
 import org.killbill.billing.client.KillBillHttpClient;
-
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-public class KillBillConfig {
+public class
+KillBillConfig {
 
     @Bean
     public KillBillHttpClient killBillHttpClient() {

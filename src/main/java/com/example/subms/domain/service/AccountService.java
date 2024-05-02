@@ -7,7 +7,6 @@ import org.springframework.stereotype.Service;
 public class AccountService {
 
     public Account createAccount(Account account) {
-        // Implementation for creating an account
         return account;
     }
 }
